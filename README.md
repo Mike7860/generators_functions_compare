@@ -1,0 +1,1 @@
+comparing generators and functions
