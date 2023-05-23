@@ -1,1 +1,1 @@
-comparing generators and functions
+comparing effect of generators and functions
