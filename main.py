@@ -4,5 +4,6 @@ def foo():
         yield i
         i -= 1
 
+
 for i in foo():
     print(i)
