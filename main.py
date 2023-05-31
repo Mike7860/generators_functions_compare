@@ -6,4 +6,4 @@ def foo():
 
 
 for i in foo():
-    print(i)
+    print("result:", i)
