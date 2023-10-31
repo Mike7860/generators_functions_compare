@@ -1,1 +1,1 @@
-comparing effect of generators and functions
+Comparing effect of generators and functions. Used decorator, context manager, profiling and pytest framework
